@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>234A9183-E865-41FC-A5E3-20753E998CE6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>vertex_cover_tpp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>91045C65-BBEF-430B-AEBE-84D1CEC5922B</key>
+		<string>https://github.com/VincentShenbw/POJ.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>vertex_cover_tpp/vertex_cover_tpp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>91045C65-BBEF-430B-AEBE-84D1CEC5922B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/VincentShenbw/POJ.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>91045C65-BBEF-430B-AEBE-84D1CEC5922B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>91045C65-BBEF-430B-AEBE-84D1CEC5922B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>POJ</string>
+		</dict>
+	</array>
+</dict>
+</plist>
